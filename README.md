@@ -1,4 +1,4 @@
-<img width="884" height="327" alt="{62E13AF7-5A8F-44C1-AE2B-A06A5A789721}" src="https://github.com/user-attachments/assets/3b8a3f6f-76a6-4696-b129-9ac7881b2da0" /># Nabajit-Boro
+# Nabajit-Boro
 
 <h1 align="center">Hey there! 👋 I'm Nabajit Boro</h1>
 
